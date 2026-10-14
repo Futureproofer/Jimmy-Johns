@@ -1,0 +1,6 @@
+{
+  "name": "Smart Money OB Signal Terminal",
+  "description": "Real-time TradingView charting, Smart Money Liquidity Structure & Order Block breakout signal alerts with live data double-check, Web Push notifications, and automated email dispatch.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
